@@ -5,9 +5,9 @@ Authentication is also needed in order to create, update or delete a job posting
 
 
 ### To Install
-To use first run npm install to install the packages
-Set up a database and use to replace "mongoURI" or just use with env variables
-Choose the port you want to run with
-Choose your access_token
+Run npm install <br/>
+Set up a database and use to replace "mongoURI" or just use with env variables <br/>
+Choose the port you want to run with <br/>
+Choose your access_token <br/>
 Start the app by running node server.js
 
