@@ -9,5 +9,8 @@ Run npm install <br/>
 Set up a database and use to replace "mongoURI" or just use with env variables <br/>
 Choose the port you want to run with <br/>
 Choose your access_token <br/>
-Start the app by running node server.js
+Start the app by running node server.js<br/>
+
+### Login details
+Login - adetunji@gmail.com, pass - 123456
 
